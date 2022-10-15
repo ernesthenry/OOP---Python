@@ -18,3 +18,5 @@ class Child(Parent): # define child class
 
    def childMethod(self):
       print 'Calling child method'
+
+      
